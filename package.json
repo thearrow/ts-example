@@ -1,0 +1,25 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "example typescript project",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-typescript": "*",
+    "typescript": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "author": "",
+  "license": ""
+}

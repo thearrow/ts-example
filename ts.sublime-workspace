@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"browserSync"
+			],
+			[
+				"sel",
+				" ● select (property) ID3Selectors.select: (selector: string) => ID3Selection"
+			],
+			[
+				"associaf",
+				"associateOfficesWithUsers"
+			],
+			[
+				"offic",
+				"officeAry"
+			],
+			[
+				"filter",
+				"filteredUsers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getCredentials"
+			],
+			[
+				"promp",
+				"promptConfig"
+			],
+			[
+				"te",
+				"testAssociations"
+			],
+			[
+				"jake",
+				"jakePrefs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "arc",
+		"selected_items":
+		[
+			[
+				"arc",
+				"ArcticTypescript: Build"
+			],
+			[
+				"arct",
+				"ArcticTypescript: Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jake/dev/ts-example"
+	],
+	"file_history":
+	[
+		"/Users/Jake/dev/ts-example/app.ts",
+		"/Users/Jake/dev/ts-example/package.json",
+		"/Users/Jake/dev/ts-example/.gitignore",
+		"/Users/Jake/dev/ts-example/app.js",
+		"/Users/Jake/dev/ts-example/index.html",
+		"/Users/Jake/dev/ts-example/tsconfig.json",
+		"/Users/Jake/dev/TypeScriptSamples/d3/data.ts",
+		"/Users/Jake/dev/TypeScriptSamples/d3/tsconfig.json",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/ArcticTypescript/README.md",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/Typescript.sublime-settings",
+		"/Users/Jake/dev/TypeScriptSamples/d3/perf.html",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/ArcticTypescript.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/ArcticTypescript/ArcticTypescript.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Jake/dev/TypeScriptSamples/d3/d3ts.sublime-project",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/T3S/T3S.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/T3S.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/T3S-dev/README.md",
+		"/Users/Jake/dev/officeswap/models/office.js",
+		"/Users/Jake/dev/officeswap/models/user.js",
+		"/Users/Jake/dev/officeswap/bin/load",
+		"/Users/Jake/dev/officeswap/data/offices.xml",
+		"/Users/Jake/dev/officeswap/data/users.xml",
+		"/Users/Jake/dev/officeswap/models/preference.js",
+		"/Users/Jake/dev/officeswap/package.json",
+		"/Users/Jake/dev/officeswap/models/index.js",
+		"/Users/Jake/dev/officeswap/app.js",
+		"/Users/Jake/dev/officeswap/.gitignore",
+		"/Users/Jake/Desktop/GetPrintableList.xml",
+		"/Users/Jake/dev/officeswap/views/index.jade",
+		"/Users/Jake/dev/officeswap/views/layout.jade",
+		"/Users/Jake/dev/officeswap/bin/www",
+		"/Users/Jake/dev/officeswap/.jshintrc",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Jake/.zshrc",
+		"/Users/Jake/dev/timeline/npm-shrinkwrap.json",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/User/SearchInProject.sublime-settings",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/Search in Project/README.md",
+		"/Users/Jake/Library/Application Support/Sublime Text 3/Packages/Search in Project/SearchInProject.sublime-settings",
+		"/Users/Jake/Dropbox/Mac Setup/setup.sh",
+		"/Users/Jake/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/console-log-js",
+		"/Users/Jake/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/console-log.sublime-snippet",
+		"/Users/Jake/dev/officeswap/config/config.json",
+		"/Users/Jake/Dropbox/Mackup/.ssh/known_hosts",
+		"/Volumes/Windows/tor/ProjectSAM.Symphobia.3.Lumina.KONTAKT-MAGNETRiXX/Magnetrixx.nfo",
+		"/etc/hosts",
+		"/Volumes/Windows/tor/Native.Instruments.The.Grandeur.V.1.2.0.KONTAKT-MAGNETRiXX/Magnetrixx.nfo",
+		"/Users/Jake/Desktop/ProjectSAM.Symphobia.3.Lumina.KONTAKT-MAGNETRiXX.torrent",
+		"/Users/Jake/Desktop/Positive.Grid.BIAS.Professional.v1.1.3.495.MacOSX.Incl.Patch.and.Keygen/Egg Keygen/RunMe.sh",
+		"/Volumes/Data/OSX86 Install/Music/Positive.Grid.BIAS.Professional.v1.1.3.495.MacOSX.Incl.Patch.and.Keygen/nfo.nfo",
+		"/Volumes/Data/OSX86 Install/Music/Native.Instruments.Guitar.Rig.5.Pro.v5.1.1.UNLOCKED.MacOSX-R2R/R2R.nfo",
+		"/Volumes/Data/OSX86 Install/Music/iZotope.Nectar.2.Production.Suite.v2.02.MacOSX-R2R/R2R.nfo",
+		"/Volumes/Data/OSX86 Install/Music/iZotope.Insight.v1.03b.Ked.MAC.OSX.Cook/nfo.nfo",
+		"/Users/Jake/Desktop/hw-059/HEXWARS.nfo",
+		"/Volumes/Data/OSX86 Install/Music/Waves.Complete.v9r24.MacOSX/nfo.nfo",
+		"/Volumes/Data/OSX86 Install/Music/iZotope.Ozone.Advanced.v6.01.MacOSX-HEXWARS/HEXWARS.nfo",
+		"/Users/Jake/Desktop/adcc2014/aamrestore.command",
+		"/Users/Jake/Desktop/adcc2014/aamfix.command",
+		"/Users/Jake/Downloads/open_in_iterm2/info.plist",
+		"/Users/Jake/Desktop/install_ntfs12_refresh.sh",
+		"/Volumes/Paragon NTFS 12.1.62/Crack/install_ntfs12_refresh.sh"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jake"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"person"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tsconfig.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tsconfig-lints":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ts.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/timeline/timeline.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
